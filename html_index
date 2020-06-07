@@ -1,1 +1,44 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>index page</title>
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <meta name="viewport" content="width=device-width,inital-scale=1.0">
+        
+    </head>
+ 
+    <body>
+ 
+   <!------------------------Navigation ----------------------------->
+  <nav>
+       <ul>
+           <li><a href="indexpage.html">About Me</a></li>
+           <li><a href="work.html">Experience</a></li>
+           <li><a href="#">Interest</a></li>
+           <li><a href="#">General info</a></li>
+       </ul>
+    </div>
+   </nav>
+ 
+<!-- ----------------------Navigation ----------------------------->
+ 
+ 
+<!-------------------------Meet------------------------------------->
+<div class="wrapper">
+    <article class="img-info">
+        <h2>MEET Angus </h2>
+        <p>Graduated with honour of Business Management,  </p>
+        
+        <p>Nulla facilisi. Maecenas viverra dictum erat, eget pellentesque dolor porttitor nec. Nam vel congue tortor, tincidunt egestas velit. Vivamus fringilla libero feugiat felis egestas, at euismod lacus dictum.</p>
+    </article>
+    <img class="img-me" src="HERO.jpeg" alt="my info">
+</div>
+<!-------------------------Meet------------------------------------->
+ 
+ 
+ 
+ 
+    </body>
+ 
+</html>
